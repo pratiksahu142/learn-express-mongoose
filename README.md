@@ -23,3 +23,7 @@ At any point, we can delete all data in the database and start afresh by using t
 1. https://mongoosejs.com/docs/index.html
 2. https://mongoosejs.com/docs/guides.html
 3. https://www.mongodb.com/basics
+
+   
+brew services start mongodb-community@7.0
+brew services stop mongodb-community@7.0
